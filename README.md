@@ -23,8 +23,8 @@ Step 7: Save and run the application.
 ## PROGRAM:
 ```
 Program to create and design an android application that draws basic graphical primitives on the screen.
-Developed by: Challa Maheswar
-Registeration Number : 212221040031
+Developed by: Madheswaran E
+Registeration Number : 212222040090
 ```
 ## Activity_main.xml:
 ```
